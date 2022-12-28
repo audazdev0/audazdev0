@@ -20,8 +20,6 @@
 
 <div>  
 
-  ![Snake animation](https://github.com/rafaballerini/audazdev0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/audazdev0/audazdev0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-<iframe  frameborder='0' scrolling='no' allowfullscreen width='640' height='684'></iframe>
